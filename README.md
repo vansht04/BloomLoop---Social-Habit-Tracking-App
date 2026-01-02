@@ -1,1 +1,2 @@
 # BloomLoop
+BloomLoop is a social habit-tracking app that turns daily habits into a living virtual garden, where each habit grows as a plant based on consistent check-ins and streaks. Users can manage habits, customize their profiles and UI, earn achievements, and interact with friends through shared gardens, posts, and leaderboards—all powered by frontend-only mock data. The experience features smooth animations, drag-and-drop garden design, and a calming, nature-inspired interface that works seamlessly on desktop and mobile. 🌱
